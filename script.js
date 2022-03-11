@@ -4,7 +4,8 @@ const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 500; //how long to wait before starting playback of the clue sequence
 
 //Global Variables
-var pattern = new Array(Math.floor(Math.random() * 10) + 1); //random size of the pattern array
+var length = Math.floor(Math.random() * 10) + 1
+var pattern = new Array(length); //random size of the pattern array
 var progress = 0; 
 var gamePlaying = false;
 var tonePlaying = false;
