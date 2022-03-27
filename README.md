@@ -48,13 +48,17 @@ The following **additional** features are implemented:
 I just used one outside source, to understand more about the hidden class, and how to use it. - https://www.geeksforgeeks.org/html-hidden-attribute/
 To understand this, I played around with the hidden class in the project, and finally understood how it works. 
 
-For everything else, such as JavaScript syntax, I made sure to use w3schools.com.
+For everything else, such as CSS syntax, I made sure to use w3schools.com for the different colors I chose. - https://www.w3schools.com/cssref/css_colors.asp
+
+For JavaScript syntax, I wanted to know more in-depth about adding audio to webpages, so I searched it up, and learnt about it on html5rocks.com. - https://www.html5rocks.com/en/tutorials/webaudio/intro/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
 Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, however, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. This is because Glitch was absolutely new to me, but so was JavaScript, HTML, and CSS. 
 
-Moreover, since I am an absolute beginner when it comes to HTML, CSS, and JavaScript, instead of implementing various extra features, I chose to learn about web development as a whole in more depth. This is because I wanted to know about the front-end, back-end technologies used to create websites in today's world, and how companies like Facebook, YouTube, or LinkedIn implement javascript technologies.
+I had trouble understanding how to implement the sound system in the game, and how I should change the frequency of sound in each button in the sound synthesis functions. I made sure to go through every instruction thoroughly, and even made sure to go through the in-built JavaScript library "AudioContext", which is used to generate the button sounds.
+
+Moreover, since I am an absolute beginner when it comes to HTML, CSS, and JavaScript, instead of implementing various extra features, I chose to learn about web development as a whole in more depth. This is because I wanted to know about the front-end, back-end technologies used to create websites in today's world, and how companies like Facebook, YouTube, or LinkedIn implement javascript technologies. Even though I believe that practical work or building projects helps tremendously with experience, I also believe that learning the foundations and basics of the technologies one uses is important to know. This is also because I am a keen learner, and extremely curious about every available topic related to technnology.
 
 3. What questions about web development do you have after completing your submission? 
 
@@ -63,7 +67,6 @@ How do I prepare for the different technologies that will be used for the intern
 How do you make sure your website (made using HTML, CSS, and JavaScript) doesn't contain any bugs? 
 How do you test methods of the JavaScript class to improve the functionality of the project?
 Considering the number of new javascript technologies available today (vue.js, react.js, angular.js, and so on), where does each framework appear to be more useful?
-
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
