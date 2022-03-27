@@ -50,12 +50,17 @@ To understand this, I played around with the hidden class in the project, and fi
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
-Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, however, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. 
+Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, however, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. This is because Glitch was absolutely new to me, but so was JavaScript, HTML, and CSS. 
+
+It was definitely a challenge to 
 
 3. What questions about web development do you have after completing your submission? 
 
 What are the most important or most used technologies or programming languages used for web development currently?
 How do I prepare for the different technologies that will be used for the internship? 
+How do you make sure your website (made using HTML, CSS, and JavaScript) doesn't contain any bugs? 
+How do you test methods of the JavaScript class to improve the functionality of the project?
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
