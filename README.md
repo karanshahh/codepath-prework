@@ -60,7 +60,7 @@ What are the most important or most used technologies or programming languages u
 How do I prepare for the different technologies that will be used for the internship? 
 How do you make sure your website (made using HTML, CSS, and JavaScript) doesn't contain any bugs? 
 How do you test methods of the JavaScript class to improve the functionality of the project?
-Considering the number of new javascript technologies available today (vue.js, react.js, angular.js, and so on), how do you know which framework is used for a specific project?
+Considering the number of new javascript technologies available today (vue.js, react.js, angular.js, and so on), where does each framework appear to be more useful?
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
