@@ -54,7 +54,7 @@ For JavaScript syntax, I wanted to know more in-depth about adding audio to webp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
-Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, however, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. This is because Glitch was absolutely new to me, but so was JavaScript, HTML, and CSS. 
+Initially, I had trouble using glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. This is because Glitch was absolutely new to me, but so was JavaScript, HTML, and CSS. 
 
 I had trouble understanding how to implement the sound system in the game, and how I should change the frequency of sound in each button in the sound synthesis functions. I made sure to go through every instruction thoroughly, and even made sure to go through the in-built JavaScript library "AudioContext", which is used to generate the button sounds.
 
