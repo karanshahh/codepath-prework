@@ -65,7 +65,10 @@ How do you test methods of the JavaScript class to improve the functionality of 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
 With a few hours, there's no doubt that I would add the optional features I haven't implemented already, suggested by Codepath. However, other additional features I would like to add would be taking user input and displaying that as a message or an alert. 
+
 I would align the heading text and the buttons at the center of the webpage. I would like to change the background of the webpage to a background image of my choice, change the button's appearance such that they display images, and upon clicking the buttons, a custom audio file would be played. 
+
+Even though it is important for the appearance of the project/game to be visually appealing for the users, I mainly focused on learning more about various different features which don't focus on the appearance of the project, but rather on the the inner project's functionality, like adding features which would interact directly with the users. 
 
 ## Interview Recording URL Link
 
