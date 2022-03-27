@@ -48,6 +48,8 @@ The following **additional** features are implemented:
 I just used one outside source, to understand more about the hidden class, and how to use it. - https://www.geeksforgeeks.org/html-hidden-attribute/
 To understand this, I played around with the hidden class in the project, and finally understood how it works. 
 
+For everything else, such as JavaScript syntax, I made sure to use w3schools.com.
+
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
 Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, however, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. This is because Glitch was absolutely new to me, but so was JavaScript, HTML, and CSS. 
@@ -70,6 +72,8 @@ With a few hours, there's no doubt that I would add the optional features I have
 I would align the heading text and the buttons at the center of the webpage. I would like to change the background of the webpage to a background image of my choice, change the button's appearance such that they display images, and upon clicking the buttons, a custom audio file would be played. 
 
 Even though it is important for the appearance of the project/game to be visually appealing for the users, I mainly focused on learning more about various different features which don't focus on the appearance of the project, but rather on the the inner project's functionality, like adding features which would interact directly with the users. I like to focus on features which would  the user interact with the app more.
+
+I would also prefer to spend more time working on the all the functions' functionality and try to improve on the design and structure of the javascript file. This is because I find it crucial for the code to be maintanable and efficient.
 
 ## Interview Recording URL Link
 
