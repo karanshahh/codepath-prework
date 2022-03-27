@@ -47,15 +47,15 @@ The following **additional** features are implemented:
 I just used one outside source, to understand more about the hidden class, and how to use it. - https://www.geeksforgeeks.org/html-hidden-attribute/
 To understand this, I played around with the hidden class in the project, and finally understood how it works. 
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet,
  I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. 
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission? 
 What are the most important or most used technologies or programming languages used for web development currently?
 How do I prepare for the different technologies that will be used for the internship? 
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 With a few hours, there's no doubt that I would add the optional features I haven't implemented already, suggested by Codepath. However, other additional features I would like to add would be taking user input and displaying that as a message or an alert. 
 I would align the heading text and the buttons at the center of the webpage. I would like to change the background of the webpage to a background image of my choice, change the button's appearance such that they display images, and upon clicking the buttons, a custom audio file would be played. 
 
