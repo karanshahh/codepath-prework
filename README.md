@@ -54,7 +54,7 @@ For everything else, such as JavaScript syntax, I made sure to use w3schools.com
 
 Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, however, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. This is because Glitch was absolutely new to me, but so was JavaScript, HTML, and CSS. 
 
-It was definitely a challenge to 
+Moreover, since I am an absolute beginner when it comes to HTML, CSS, and JavaScript, instead of implementing various extra features, I chose to learn about web development as a whole in more depth. This is because I wanted to know about the front-end, back-end technologies used to create websites in today's world, and how companies like Facebook, YouTube, or LinkedIn implement javascript technologies.
 
 3. What questions about web development do you have after completing your submission? 
 
