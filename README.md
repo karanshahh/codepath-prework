@@ -50,9 +50,7 @@ To understand this, I played around with the hidden class in the project, and fi
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
-Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet,
-
-I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. 
+Initially, I had trouble with using a glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, however, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. 
 
 3. What questions about web development do you have after completing your submission? 
 
