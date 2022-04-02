@@ -7,6 +7,7 @@ Submitted by: Karan Shah
 Time spent: **10** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/periodic-pineapple-oviraptor
+
 Link to project in a new window: https://periodic-pineapple-oviraptor.glitch.me/
 
 ## Required Functionality
