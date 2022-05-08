@@ -43,48 +43,6 @@ The following **additional** features are implemented:
 
 ![](https://i.imgur.com/7D3WrNn.gif)
 
-
-## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-
-I just used one outside source, to understand more about the hidden class, and how to use it. - https://www.geeksforgeeks.org/html-hidden-attribute/
-To understand this, I played around with the hidden class in the project, and finally understood how it works. 
-
-For everything else, such as CSS syntax, I made sure to use w3schools.com for the different colors I chose. - https://www.w3schools.com/cssref/css_colors.asp
-
-For JavaScript syntax, I wanted to know more in-depth about adding audio to webpages, so I searched it up, and learnt about it on html5rocks.com. - https://www.html5rocks.com/en/tutorials/webaudio/intro/
-
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
-
-Initially, I had trouble using glitch, and somehow, it created 3 more projects. I wanted to know how I could delete the rest of the projects. After a few minutes of researching on the internet, I found out there's no feature as of yet which allows the glitch users to delete projects on its website. So, I just stuck with it. This is because Glitch was absolutely new to me, but so was JavaScript, HTML, and CSS. 
-
-I had trouble understanding how to implement the sound system in the game, and how I should change the frequency of sound in each button in the sound synthesis functions. I made sure to go through every instruction thoroughly, and even made sure to go through the in-built JavaScript library "AudioContext", which is used to generate the button sounds.
-
-Moreover, since I am an absolute beginner when it comes to HTML, CSS, and JavaScript, instead of implementing various extra features, I chose to learn about web development as a whole in more depth. This is because I wanted to know about the front-end, back-end technologies used to create websites in today's world, and how companies like Facebook, YouTube, or LinkedIn implement javascript technologies. Even though I believe that practical work or building projects helps tremendously with experience, I also believe that learning the foundations and basics of the technologies one uses is important to know. This is also because I am a keen learner, and extremely curious about every available topic related to technnology.
-
-3. What questions about web development do you have after completing your submission? 
-
-What are the most important or most used technologies or programming languages used for web development currently?
-How do I prepare for the different technologies that will be used for the internship? 
-How do you make sure your website (made using HTML, CSS, and JavaScript) doesn't contain any bugs? 
-How do you test methods of the JavaScript class to improve the functionality of the project?
-Considering the number of new javascript technologies available today (vue.js, react.js, angular.js, and so on), where does each framework appear to be more useful?
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
-
-With a few hours, there's no doubt that I would add the optional features I haven't implemented already, suggested by Codepath. However, other additional features I would like to add would be taking user input and displaying that as a message or an alert. 
-
-I would align the heading text and the buttons at the center of the webpage. I would like to change the background of the webpage to a background image of my choice, change the button's appearance such that they display images, and upon clicking the buttons, a custom audio file would be played. 
-
-Even though it is important for the appearance of the project/game to be visually appealing for the users, I mainly focused on learning more about various different features which don't focus on the appearance of the project, but rather on the the inner project's functionality, like adding features which would interact directly with the users. I like to focus on features which would  the user interact with the app more.
-
-I would also prefer to spend more time working on the all the functions' functionality and try to improve on the design and structure of the javascript file. This is because I find it crucial for the code to be maintanable and efficient.
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://www.loom.com/share/edf577f61b4a4339878412dbfb0e6655)
-
-
 ## License
 
     Copyright KARAN SHAH
