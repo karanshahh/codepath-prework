@@ -4,7 +4,7 @@
 
 Created by: Karan Shah
 
-Time spent: **10** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/periodic-pineapple-oviraptor
 
