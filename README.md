@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game.
 
-Submitted by: Karan Shah
+Created by: Karan Shah
 
 Time spent: **10** hours spent in total
 
