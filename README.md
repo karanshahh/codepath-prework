@@ -1,5 +1,3 @@
-#*Memory Game*
-
 **Memory Game** is a Light & Sound Memory game.
 
 Created by: Karan Shah
